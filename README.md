@@ -5,3 +5,6 @@ A manager has given three assignments: to determine the number of retiring emplo
 
 ## Deliverable 1: The Number of Retiring Employees by Title
 Using PostgreSQL, I created and executed a query to make a retirement titles table for employeers who are born between Jauanry 1, 1952 and Deember 31 1955. The retirement table syntax and table can be seen below. 
+
+
+https://user-images.githubusercontent.com/48603147/145732205-23aaf015-fc09-4d6a-a235-efc87e8d408e.png
