@@ -17,4 +17,5 @@ The final step in deliverable 1 was to write a query to create a retiring tiles 
 ![Retiring_titles_table.png](https://user-images.githubusercontent.com/48603147/145732205-23aaf015-fc09-4d6a-a235-efc87e8d408e.png)
 
 ## Deliverable 2: Employees eligible for the mentorship program
-In this deliverable I created a table that holds the employees who are eligible for a mentorship program. 
+In this deliverable I created a table that holds the employees who are eligible for a mentorship program. The employees eligible are employees who were born between Jaunary 1st, 1965 and December 31st, 1965. As seen in the query below, I retreived the employee number, first name and last name and birthdate columns from the employees table, retrieved the from_date and to_date from the department employee table, joined the employees and title table on the primary keys and filterered the to_date columne and birth_date column to retrieve all emplyees whose birthdates within the given constraints. Mentorship eligibility table was exported as a csv into the data folder.
+![mentorship_table.png](https://user-images.githubusercontent.com/48603147/145733249-fb2c111c-7e9d-4f47-905d-ac7ff871e061.png)
