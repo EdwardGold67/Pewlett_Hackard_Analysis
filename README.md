@@ -31,6 +31,7 @@ From the second deliverable, the count of employeers by who could retire at any 
 * 8,047 Senior Staff
 * 4,502 Techinque Leaders
 * 1,761 Assistant Engineers
+
 ![Retiring_titles_table.png](https://user-images.githubusercontent.com/48603147/145732205-23aaf015-fc09-4d6a-a235-efc87e8d408e.png)
 
 *As we can see, the number of potential reitirees is very high with 90,398 employees expected to retire at any given point. The percentage of retireing employees is 23% of the total company as seen in the pie chart below and therefore the mentorship program is strongly recommended. 
