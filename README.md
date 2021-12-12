@@ -35,7 +35,7 @@ From the second deliverable, the count of employeers by who could retire at any 
 
 *As we can see, the number of potential reitirees is very high with 90,398 employees expected to retire at any given point. The percentage of retireing employees is 23% of the total company as seen in the pie chart below and therefore the mentorship program is strongly recommended. 
 
-![retiring_table.png](
+![retiring_table.png](https://user-images.githubusercontent.com/48603147/145734804-c3819f1a-4fc3-492a-8e1c-c559281948fe.png)
 
 # Summary 
 How many roles will need to be filled?
